@@ -1,6 +1,4 @@
-this is a very rudimental tool to monitor and send alert mails when you have and HP Smartarray compatible with cciss driver, 
-
-I had a P212 with cache. 
+this is a very rudimental tool to monitor and send alert mails when you have and HP Smartarray compatible with cciss driver, I had a P212 with cache. 
 
 the script has been written when I was starting to learn python, therefore the excessive rudimental application of what I knew. 
 
